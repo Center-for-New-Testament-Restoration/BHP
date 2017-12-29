@@ -9,4 +9,4 @@ Consult the BHP Introduction (https://github.com/greekcntr/BHP/blob/master/BHP_I
 
 Citation
 -----
-Bunning, Alan, ed. (2017) _Bunning Heuristic Protype Greek New Testament_. Preliminary Draft, December 29, 2017. https://github.com/greekcntr/BHP
+Bunning, Alan, ed. (2017) _Bunning Heuristic Protoype Greek New Testament_. Preliminary Draft, December 29, 2017. https://github.com/greekcntr/BHP
