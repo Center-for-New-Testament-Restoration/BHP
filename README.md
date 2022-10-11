@@ -5,4 +5,4 @@
 Copyright © 2017 by Alan Bunning released under the <a rel=license href=http://creativecommons.org/licenses/by-sa/4.0/>Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)</a>. Attribution must be given to Alan Bunning and the Center for New Testament Restoration.
 
 <h2>Citation</h2>
-Bunning, Alan, ed. (2017) <i>Bunning Heuristic Protoype Greek New Testament</i>. December 29, 2017.
+Bunning, Alan, ed. <i>Bunning Heuristic Protoype Greek New Testament</i>. December 29, 2017.
