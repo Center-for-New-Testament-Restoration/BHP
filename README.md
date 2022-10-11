@@ -1,12 +1,8 @@
-Bunning Heuristic Prototype Greek New Testament
-=====
-Preliminary Draft
------
+<h1>Center for New Testament Restoration<br>Bunning Heuristic Prototype Greek New Testament</h1>
 
-The BHP text and all its additional features are made available under a [CC-BY-SA License](http://creativecommons.org/licenses/by-sa/4.0/).
+<h2>License</h2>
+<img alt='Creative Commons License' src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" width="88" height="31" style='margin:0 10px 0 12pt; float:left;'/>
+Copyright © 2017 by Alan Bunning released under the <a rel=license href=http://creativecommons.org/licenses/by-sa/4.0/>Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)</a>. Attribution must be given to Alan Bunning and the Center for New Testament Restoration.
 
-Consult the BHP Introduction (https://github.com/greekcntr/BHP/blob/master/BHP_Introduction.pdf) and CNTR Project Description (https://greekcntr.org/downloads/project.pdf) for more information.
-
-Citation
------
-Bunning, Alan, ed. (2017) _Bunning Heuristic Protoype Greek New Testament_. Preliminary Draft, December 29, 2017. https://github.com/greekcntr/BHP
+<h2>Citation</h2>
+Bunning, Alan, ed. (2017) <i>Bunning Heuristic Protoype Greek New Testament</i>. December 29, 2017.
