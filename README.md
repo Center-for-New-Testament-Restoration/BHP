@@ -8,4 +8,4 @@ The 2012 Bunning Heuristic Prototype (BHP) text was created by Alan Bunning for 
 Copyright © 2012 by Alan Bunning released under the <a rel=license href=http://creativecommons.org/licenses/by/4.0/>Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Attribution must be given to Alan Bunning and the Center for New Testament Restoration.
 
 <h2>Citation</h2>
-Bunning, Alan, ed. <i>Bunning Heuristic Protoype Greek New Testament</i>. 2012.
+Bunning, Alan, ed. <i>Bunning Heuristic Protoype Greek New Testament</i>. Center for New Testament Restoration. 2012.
